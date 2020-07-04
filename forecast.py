@@ -1,7 +1,11 @@
 import requests
 
 
-def get_weather(places):
+def get_weather(places :list):
+    """
+    :param places:
+    :return: None, just printing weather in terminal
+    """
 
     payload = {'nTq': '', 'lang': 'ru'}
 
@@ -15,7 +19,8 @@ def get_weather(places):
 
 
 def main():
-    places = ('лондон', 'шереметьево', 'череповец')
+    # Place for weather
+    places = ['лондон', 'шереметьево', 'череповец']
     get_weather(places)
 
 
