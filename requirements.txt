@@ -1,1 +1,1 @@
-pip install requests==2.24.*
+pip install requests==2.24.0
