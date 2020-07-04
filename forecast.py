@@ -19,7 +19,7 @@ def get_weather(places :list):
 
 
 def main():
-    # Place for weather
+    # Places for weather
     places = ['лондон', 'шереметьево', 'череповец']
     get_weather(places)
 
