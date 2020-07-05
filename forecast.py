@@ -1,7 +1,7 @@
 import requests
 
 
-def get_weather(places :list):
+def print_weather(places :list):
     """
     :param places:
     :return: None, just printing weather in terminal
