@@ -13,12 +13,14 @@ def print_weather(places :list):
         url = 'http://wttr.in/' + place
         response = requests.get(url, params=payload)
         if response.ok:
-            return response.text
+            print(response.text)
         else:
             return
+
+
 def main():
     places = ['лондон', 'шереметьево', 'череповец']
-    print(print_weather(places))
+    print_weather(places)
 
 
 if __name__ == '__main__':
