@@ -6,7 +6,7 @@ This project use site [wttr.in/](http://wttr.in/)
 Use help -> [wttr.in/:help](http://wttr.in/:help)
 
 # Requirements
-Python >=3.7 and higher
+Python >=3.7
 
 Module 'requests'
 
