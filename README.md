@@ -25,7 +25,7 @@ You can use your places. Just change places in **'main()'** function
 
 You can change parameters in payload in **print_weather()** finction
 
-Use help -> [http://wttr.in/:help](http://wttr.in/:help)
+Use help -> [wttr.in/:help](http://wttr.in/:help)
 
 # Project goal
 
