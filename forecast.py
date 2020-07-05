@@ -15,9 +15,7 @@ def print_weather(places :list):
         if response.ok:
             print(response.text)
         else:
-            print('Response error' + response.status_code)
-
-
+            return
 def main():
     places = ['лондон', 'шереметьево', 'череповец']
     get_weather(places)
