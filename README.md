@@ -1,16 +1,16 @@
 # Description
 The code is printing weather in terminal for ['London', 'Sheremetievo', 'Cherepovets']
 
-This project use site http://wttr.in/
+This project use site [wttr.in/](http://wttr.in/)
 
-use help -> http://wttr.in/:help
+Use help -> [wttr.in/:help](http://wttr.in/:help)
 
 # Requirements
-python 3.7 and higher
+Python 3.7 and higher
 
-module 'requests'
+Module 'requests'
 
-for installing the module use command
+For installing the module use command
 ```
 pip install -r requirements.txt
 ```
