@@ -4,7 +4,7 @@ import requests
 def print_weather(places :list):
     """
     :param places:
-    :return: None, just printing weather in terminal
+    :return: None, if error
     """
 
     payload = {'nTq': '', 'lang': 'ru'}
