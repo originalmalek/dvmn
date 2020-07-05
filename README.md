@@ -10,9 +10,9 @@ python 3.7 and higher
 
 module 'requests'
 for installing module use command
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 # Project goal
 
