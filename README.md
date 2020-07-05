@@ -1,7 +1,7 @@
 # Description
 The code is printing weather in terminal for ['London', 'Sheremetievo', 'Cherepovets']
 
-This project use site [wttr.in/](http://wttr.in/)
+This project is using [wttr.in/](http://wttr.in/)
 
 Use help -> [wttr.in/:help](http://wttr.in/:help)
 
