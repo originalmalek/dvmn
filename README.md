@@ -8,7 +8,7 @@ Use help -> [wttr.in/:help](http://wttr.in/:help)
 # Requirements
 Python >=3.7
 
-Module 'requests'
+Module 'requests 2.24.0'
 
 For installing the module use command
 ```
