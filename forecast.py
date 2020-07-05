@@ -18,7 +18,7 @@ def print_weather(places :list):
             return
 def main():
     places = ['лондон', 'шереметьево', 'череповец']
-    print(get_weather(places))
+    print(print_weather(places))
 
 
 if __name__ == '__main__':
